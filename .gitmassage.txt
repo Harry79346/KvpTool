@@ -1,0 +1,11 @@
+# Commit Message Template (Conventional Commits)
+
+# <type>: <kurze Beschreibung>
+# type = feat | fix | docs | test | chore | refactor | style
+# Beispiel: feat: add KPI comparison logic
+
+# ------------------------------
+# Falls nötig, hier weitere Details:
+# - Warum die Änderung?
+# - Besondere Hinweise
+# ------------------------------
